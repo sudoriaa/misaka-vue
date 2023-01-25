@@ -49,6 +49,13 @@
           主要贡献：搭建&管理评论系统，人类验证
         </ContributorCard>
         <ContributorCard
+          username="sudoriaa"
+          name="苏多莉亚"
+          email="rc@ricecandy.cn"
+        >
+          主要贡献：com网站站长、页面开发、页面优化、动画资源搜集
+        </ContributorCard>
+        <ContributorCard
           username="z2bguoguo"
           name="中二病guoguo"
           email="z2bguoguo@z2bguoguos.ml"
